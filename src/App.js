@@ -3,7 +3,7 @@ import Terminal from 'terminal-in-react';
 
 class App extends Component {
     async componentDidMount(){
-    await setTimeout(function(){console.log('This projects my attempt to become more comfortable with react')}, 1000);
+    await setTimeout(function(){console.log('This project is my attempt to become more comfortable with react')}, 1000);
     await setTimeout(function(){console.log('type help for a list of commands!')}, 2000);
   }
 
